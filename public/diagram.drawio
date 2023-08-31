@@ -1,0 +1,106 @@
+<mxfile host="app.diagrams.net" modified="2023-08-31T21:27:11.438Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ePyBjcqzl9X6OGreOAda" version="21.6.8" type="github">
+  <diagram name="Page-1" id="1iEuUIX5aIHPORfkDq7X">
+    <mxGraphModel dx="1113" dy="1987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lXDESYv7wNpi5x_x0XUP-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#ff0000;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="310" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="lXDESYv7wNpi5x_x0XUP-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#ff0000;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="310" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="lXDESYv7wNpi5x_x0XUP-26" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-15" width="450" height="635" as="geometry" />
+        </mxCell>
+        <mxCell id="lXDESYv7wNpi5x_x0XUP-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#ff0000;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="310" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="lXDESYv7wNpi5x_x0XUP-2" value="Cake Recipes" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="140" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lXDESYv7wNpi5x_x0XUP-3" value="Victora Sponge" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=0;verticalAlign=middle;align=left;" vertex="1" parent="1">
+          <mxGeometry x="100" y="80" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lXDESYv7wNpi5x_x0XUP-4" value="&lt;b&gt;Ingredients: &lt;/b&gt;eggs, butter, sugar, &lt;br style=&quot;font-size: 15px;&quot;&gt;self-raising flour, baking powder, milk&lt;br&gt;&lt;b&gt;Price:&lt;/b&gt; 5&lt;br&gt;&lt;b&gt;Rating:&lt;/b&gt; 5" style="text;strokeColor=none;fillColor=none;html=1;fontSize=15;fontStyle=0;verticalAlign=middle;align=left;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="360" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lXDESYv7wNpi5x_x0XUP-5" value="sell cake" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="180" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lXDESYv7wNpi5x_x0XUP-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="220" as="sourcePoint" />
+            <mxPoint x="370" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lXDESYv7wNpi5x_x0XUP-12" value="Tea Loaf" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=0;verticalAlign=middle;align=left;" vertex="1" parent="1">
+          <mxGeometry x="100" y="240" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lXDESYv7wNpi5x_x0XUP-13" value="&lt;b&gt;Ingredients: &lt;/b&gt;eggs, oil, dried fruit, sugar, &lt;br&gt;self-raising flour, strong tea&lt;br&gt;&lt;b&gt;Price:&lt;/b&gt;&amp;nbsp;2&lt;br&gt;&lt;b&gt;Rating:&lt;/b&gt;&amp;nbsp;3" style="text;strokeColor=none;fillColor=none;html=1;fontSize=15;fontStyle=0;verticalAlign=middle;align=left;" vertex="1" parent="1">
+          <mxGeometry x="110" y="270" width="360" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lXDESYv7wNpi5x_x0XUP-14" value="sell cake" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="287" y="330" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lXDESYv7wNpi5x_x0XUP-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="95" y="375" as="sourcePoint" />
+            <mxPoint x="375" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lXDESYv7wNpi5x_x0XUP-20" value="Carrot Cake" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=0;verticalAlign=middle;align=left;" vertex="1" parent="1">
+          <mxGeometry x="97" y="410" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lXDESYv7wNpi5x_x0XUP-21" value="&lt;b&gt;Ingredients: &lt;/b&gt;carrots, walnuts, oil, cream &lt;br&gt;cheese, flour, sugar&lt;br&gt;&lt;b&gt;Price:&lt;/b&gt;&amp;nbsp;8&lt;br&gt;&lt;b&gt;Rating:&lt;/b&gt;&amp;nbsp;5" style="text;strokeColor=none;fillColor=none;html=1;fontSize=15;fontStyle=0;verticalAlign=middle;align=left;" vertex="1" parent="1">
+          <mxGeometry x="110" y="440" width="360" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lXDESYv7wNpi5x_x0XUP-22" value="sell cake" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="287" y="500" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lXDESYv7wNpi5x_x0XUP-23" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="540" as="sourcePoint" />
+            <mxPoint x="370" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lXDESYv7wNpi5x_x0XUP-27" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Average rating: X&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="555" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lXDESYv7wNpi5x_x0XUP-28" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Total Sales: X&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="585" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lXDESYv7wNpi5x_x0XUP-29" value="Cakes" style="text;strokeColor=none;fillColor=none;html=1;fontSize=19;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lXDESYv7wNpi5x_x0XUP-35" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;CakesRecipesContainer&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
+          <mxGeometry x="565" y="182.5" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lXDESYv7wNpi5x_x0XUP-36" value="state: victoraSponge, teaLoaf, carrotCake&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;p : N/A&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=17;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="565" y="232.5" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lXDESYv7wNpi5x_x0XUP-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="535" y="182.5" width="440" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lXDESYv7wNpi5x_x0XUP-38" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;RecipeComponent&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
+          <mxGeometry x="545" y="352.5" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lXDESYv7wNpi5x_x0XUP-39" value="state: N/A&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;p : cakeName, ingredients, price, rating, onButtonClick&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=17;fontStyle=0;verticalAlign=middle;align=left;" vertex="1" parent="1">
+          <mxGeometry x="565" y="402.5" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lXDESYv7wNpi5x_x0XUP-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="535" y="352.5" width="440" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lXDESYv7wNpi5x_x0XUP-42" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.18571428571428572;arrowSize=0.43333333333333335;" vertex="1" parent="1">
+          <mxGeometry x="705" y="282.5" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lXDESYv7wNpi5x_x0XUP-43" value="Parent" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="535" y="152.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lXDESYv7wNpi5x_x0XUP-44" value="Child" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="322.5" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
