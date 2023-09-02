@@ -1,3 +1,7 @@
+const Cake = ()
+
+
+
 const RecipeComponent =({cakeName, ingredients, price, rating, onButtonClick})=> {
 let totalSales;
     const handleSellCakeClick = () => {
@@ -21,4 +25,4 @@ let totalSales;
 
 }
 
-export default RecipeComponent;
+export default Cake;

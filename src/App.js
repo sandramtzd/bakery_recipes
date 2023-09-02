@@ -1,13 +1,14 @@
 import './App.css';
-import CakesRecipesContainer from './containers/CakesRecipesContainer';
+import CakeContainer from './containers/CakeContainer';
+
 
 function App() {
   return (
 
-    <>
+    <div className= "App">
       <h1>The BNTA Bakery</h1>
-      <CakesRecipesContainer/>
-    </>
+      <CakeContainer/>
+    </div>
    
   );
 }
